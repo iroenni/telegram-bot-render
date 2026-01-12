@@ -7,7 +7,7 @@ from pyrogram import Client, filters, idle
 # بيانات البوت
 API_ID = 32897964
 API_HASH = "72837861fbafdc41735df5daa245402b"
-BOT_TOKEN = "8333722876:AAH279HqchGCG2AXEnmDDlfVzVgz0zB5Ow0"
+BOT_TOKEN = "8534765454:AAFjZZbb35rjS594M2kF0NdFQpR5PbQX8qI"
 
 # قنوات الاشتراك
 REQUIRED_CHANNELS = ["ALQUNAS8", "konfngats"]
